@@ -1,11 +1,11 @@
 # Medical Concierge
 
-A practice project to replicate a real-life web app currently deployed and used at a local medical facility.
+A blackbox recreation of a real-life patient management system.
 
 ## What is it
 
-A web app that manage patients based on their system-generated ticket number issued at the entrance of the facility.
+This project is a recreation version of a patient management system, built as a learning exersie to reinforce my understanding of HTML, CSS and JavaScript.
 
-This helps the medical staff to identity (and manage) patients who will undergo identity verifications, preliminary health checks and appointed to their respecive consultant.
+It is a simpliefied representation of the original system, designed to manage patient queues based on ticket numbers issues at the medical facility's entrace.
 
-This is a blackbox attempt to re-create the app based on assumptions and visual observation.
+The goal is to demonstrate my skills in building a web-based application from scratch, using the three core technologies.
