@@ -1,11 +1,11 @@
 # Medical Concierge
 
-A practice project to replicate a real-life web application deployed and used at a local medical facility
+A practice project to replicate a real-life web app currently deployed and used at a local medical facility.
 
 ## What is it
 
-A web app that manages a queue of patients based on their system-generated number that is issued upon entering the facility.
+A web app that manages patients based on their system-generated ticket number issued at the entrance of the facility.
 
-This helps the staff manage which patient will undergo identity verification, preliminary health check and be appointed to their respective medical consultant.
+This helps the staff to identity and manage patients who will undergo identity verifications, preliminary health checks or be appointed to their respecive consultant.
 
-This is a blackbox attempt to re-create the said app based on visual observation and assumptions.
+This is a blackbox attempt to re-create the app based on assumptions and visual observation.
