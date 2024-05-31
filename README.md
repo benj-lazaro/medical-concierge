@@ -1,5 +1,7 @@
 # Medical Concierge
-A front-end web app experiment
+
+A practice project to replicate a real-life web application
 
 ## What is it
-A blackbox re-creation (attempt) of a real-life web application while "lounging around" at a local medical facility
+
+Based on a kiosk web app used by a local medical clinic
