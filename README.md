@@ -1,6 +1,6 @@
 # Medical Concierge
 
-A blackbox recreation of a real-life patient management system.
+A blackbox recreation of a patient management system.
 
 ## What is it
 
